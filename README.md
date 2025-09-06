@@ -37,11 +37,21 @@ Each project demonstrates skills in data cleaning, analysis, visualization, and 
 
 ## 🚀 Tech Stack
 - **Languages/Tools**: Python, Pandas, Matplotlib, Seaborn, Numpy, MySQL.  
-- **Platforms**: Jupyter Notebook, Google Colab, MySQL Workbench.  
-
+- **Platforms**: Jupyter Notebook, Google Colab, MySQL Workbench.
 ---
-
 ## 📌 How to Use
 1. Clone the repo:
    ```bash
    git clone https://github.com/Smriti-395/data-science-portfolio.git
+
+Navigate to any project folder (e.g., Netflix-Analysis) to explore notebooks and outputs.
+
+For SQL project, check SQL-Project/queries.sql and ER diagram.
+
+✨ Author
+
+👩 Smriti Mishra
+
+Passionate about Data Science and Databases.
+
+Exploring Python, Machine Learning, and SQL.
